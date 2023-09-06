@@ -1,0 +1,11 @@
+{
+  "name": "GBAEm",
+  "desc": "A trove of the best gba games",
+  "url": "https://theclashman2.github.io/GBA-Emulator/",
+  "encodedUrl": "false",
+  "icon": "https://redstone-nw.netlify.app/assets/icon.png",
+  "author": "Binary0universe",
+  "version": "v1.0.0",
+  "finderTerms": ["gba","emulater","games"],
+  "permissions": []
+}
